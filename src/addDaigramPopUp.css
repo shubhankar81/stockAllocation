@@ -1,0 +1,16 @@
+.popup {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background-color:rgb(202, 177, 177);  
+  }
+  .popup_inner {
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    top: 20%;
+    bottom: 20%;
+    margin: auto;
+    background-color:rgb(202, 177, 177); 
+  }
